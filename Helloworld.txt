@@ -1,1 +1,2 @@
-print(hello my dear frend)
+print(hello my dear frend);
+print(Staraya versiya);
