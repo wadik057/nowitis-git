@@ -14,7 +14,7 @@ namespace Snake
             int y1 = 3;
             char sym1 = '*';
             Draw(x1, y1, sym1);
-
+            its cool
             int x2 = 4;
             int y2 = 5;
             char sym2 = '#';
