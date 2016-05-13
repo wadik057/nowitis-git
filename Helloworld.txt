@@ -1,1 +1,1 @@
-А вот и правки наши правка
+print(hello my dear frend)
